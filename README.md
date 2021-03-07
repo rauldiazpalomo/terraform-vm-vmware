@@ -5,6 +5,7 @@ En este respsitorio se describe el procedimiento para desplegar mediante Terrafo
 # Requisitos
 
 Terraform 0.12 o superior
+
 VMware 6.5 o superior
 
 # Uso
