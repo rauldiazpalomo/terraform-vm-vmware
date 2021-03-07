@@ -33,6 +33,6 @@ En el fichero variables.tf debemos indicar los datos de conexión para el provid
 
 Una vez modificados los dos ficheros con los valores correspondientes inicializaremos el proyecto mediante el comando terraform init
 
-Posteriormente ejecutaremos terraform plan, mediante este comando crearemos el plan de ejecución y posteriormente determinará que acciones son necesarias para llevar a cabo las tareas especificadas en el fichero de configuración.
+Posteriormente ejecutaremos terraform plan, mediante este comando crearemos el plan de ejecución y determinará que acciones son necesarias para llevar a cabo las tareas especificadas en el fichero de configuración.
 
 Por último mediante el comando terraform apply con el que se creará la VM con todos los datos que se ha indicado en el fichero de configuración main.tf
